@@ -1,3 +1,6 @@
+<img width="732" height="360" alt="image" src="https://github.com/user-attachments/assets/41f2b59b-2588-4446-90a6-bf3768111fc1" />
+
+
 # 2Block Ai — Intelligent Adaptive Learning & Teacher Intervention Platform
 
 > **Google Developer Groups (GDG) Hackathon Project**  
