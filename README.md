@@ -1,3 +1,6 @@
+<img width="2033" height="750" alt="Black and White Modern Bold Y2K Streetwear Brand Logo (3)" src="https://github.com/user-attachments/assets/c3a023e7-5f8b-4f60-938c-413a788d3fd0" />
+
+
 # 2Block Ai — Intelligent Adaptive Learning & Teacher Intervention Platform
 
 > **Google Developer Groups (GDG) Hackathon Project**  
